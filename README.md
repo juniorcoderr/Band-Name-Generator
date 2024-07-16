@@ -80,16 +80,12 @@ Here’s a brief overview of the files in this project:
 3. **Band Name Generation**: The server combines the last name and pet name to create a unique band name.
 4. **Result Display**: The generated band name is sent back to the user and displayed on a new page.
 
-## Screenshots
-
 ### Main Page
 
-![Main Page](screenshot1.png)
 *The main page where users can enter their last name and pet name.*
 
 ### Band Name Result
 
-![Band Name Result](screenshot2.png)
 *The generated band name displayed after form submission.*
 
 ## Contributing
